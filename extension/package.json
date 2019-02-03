@@ -1,0 +1,14 @@
+{
+    "name": "overviewer-heads-extension",
+    "version": "0.0.1",
+    "description": "Add heads into minecraft Overviewer from the client",
+    "scripts": {
+        "compile": "tsc -p ./tsconfig.json"
+    },
+    "author": "Levertion",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^3.3.1",
+        "web-ext-types": "^3.1.0"
+    }
+}

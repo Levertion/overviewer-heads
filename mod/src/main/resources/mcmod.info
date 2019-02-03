@@ -1,0 +1,17 @@
+[
+{
+  "modid": "overviewericons",
+  "name": "Minecraft Overviewer Icons",
+  "description": "Allow adding icons to Minecraft Overviewer",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Levertion/overviewer-icons",
+  "authorList": ["Levertion"],
+  "clientSideOnly": true,
+  "updateUrl": "",
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
